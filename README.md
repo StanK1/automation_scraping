@@ -1,6 +1,3 @@
-Based on your code, I'll create a detailed README.md that explains your image scraping project:
-
-```markdown:README.md
 # Chocolate Products Image Scraper
 
 An automated web scraping tool designed to download product images from various chocolate manufacturer websites. Currently supports Milka, Lindt, and BioBenjamin product pages.
